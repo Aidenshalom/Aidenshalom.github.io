@@ -99,14 +99,12 @@
 
 @media (max-width:500px) {
     .banner{
-        height: 130vh;
+        height: fit-content;
+        padding: 20px;
     }
 }
 
 @media (max-width:400px) {
-    .banner{
-        height: 160vh;
-    }
 
     .img{
         width: 200px;
@@ -114,17 +112,19 @@
 }
 
 @media (max-width:350px) {
-    .banner{
-        height: 200vh;
-    }
 
+    .banner{
+        padding: 10px;
+    }
     .img{
         width: 150px;
     }
 }
 
 @media (max-width:300px) {
-    .banner{
-        height: 250vh;
+
+
+    .img{
+        width: 150px;
     }
 }
