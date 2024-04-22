@@ -30,7 +30,7 @@ var where = document.getElementById('crypto');
  where.innerHTML = '<a href="http://crypto.aidenjewelshub.com.ng/" target="_blank"><button class="btn btn-outline-success text-light banner-btn"> Check it out </button> </a>';
 
 var where = document.getElementById('courier');
- where.innerHTML = '<a href="http://courier.aidenjewelshub.com.ng/" target="_blank"><button class="btn btn-outline-success text-light banner-btn"> Check it out </button> </a>';
+ where.innerHTML = '<a href="https://aidenshalom.github.io/courier.github.io/" target="_blank"><button class="btn btn-outline-success text-light banner-btn"> Check it out </button> </a>';
 
 var where = document.getElementById('leave');
  where.innerHTML = '<a href="http://leavesystem.aidenjewelshub.com.ng/" target="_blank"><button class="btn btn-outline-success text-light banner-btn"> Check it out </button> </a>';
