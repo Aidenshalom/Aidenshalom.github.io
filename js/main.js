@@ -24,10 +24,10 @@ function topFunction() {
 }
 
 var where = document.getElementById('jewelery');
- where.innerHTML = '<a href=" http://jewelery.aidenjewelshub.com.ng/" target="_blank"><button class="btn btn-outline-success text-light banner-btn"> Check it out </button> </a>';
+ where.innerHTML = '<a href="https://www.sakeenaclassyhalls.com.ng/" target="_blank"><button class="btn btn-outline-success text-light banner-btn"> Check it out </button> </a>';
 
 var where = document.getElementById('crypto');
- where.innerHTML = '<a href="http://crypto.aidenjewelshub.com.ng/" target="_blank"><button class="btn btn-outline-success text-light banner-btn"> Check it out </button> </a>';
+ where.innerHTML = '<a href="https://aidenshalom.github.io/nexustek.github.io/" target="_blank"><button class="btn btn-outline-success text-light banner-btn"> Check it out </button> </a>';
 
 var where = document.getElementById('courier');
  where.innerHTML = '<a href="https://aidenshalom.github.io/courier.github.io/" target="_blank"><button class="btn btn-outline-success text-light banner-btn"> Check it out </button> </a>';
